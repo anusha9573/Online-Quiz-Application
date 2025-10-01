@@ -2,7 +2,13 @@
 
 A modern, interactive quiz application built with React and Node.js. Features a sleek dark theme, real-time feedback, and an intuitive user interface for an engaging learning experience.
 
+<<<<<<< HEAD
 ![Quiz App Screenshot](screenshots/quiz-app.png)
+=======
+<img width="1793" height="624" alt="image" src="https://github.com/user-attachments/assets/00faf74e-1c78-405d-b7b1-ad280b9da307" />
+<img width="1817" height="740" alt="image" src="https://github.com/user-attachments/assets/701d0109-09c6-453f-871d-94ac4f079a44" />
+<img width="1210" height="916" alt="image" src="https://github.com/user-attachments/assets/d7360927-1d00-438c-9555-bb1cd006928f" />
+>>>>>>> a35eb12888caf88db64763c8c2640e3655bdc81c
 
 ## 🌟 Features
 
@@ -218,6 +224,7 @@ export const API_BASE_URL = process.env.REACT_APP_API_URL;
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<<<<<<< HEAD
 
 ## 👥 Author
 
@@ -226,6 +233,9 @@ Your Name
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
+=======
+.
+>>>>>>> a35eb12888caf88db64763c8c2640e3655bdc81c
 ## 🙏 Acknowledgments
 
 - React.js community for the excellent framework
