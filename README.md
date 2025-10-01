@@ -2,8 +2,9 @@
 
 A modern, interactive quiz application built with React and Node.js. Features a sleek dark theme, real-time feedback, and an intuitive user interface for an engaging learning experience.
 
-![Quiz App Screenshot](screenshots/quiz-app.png)
 <img width="1793" height="624" alt="image" src="https://github.com/user-attachments/assets/00faf74e-1c78-405d-b7b1-ad280b9da307" />
+<img width="1817" height="740" alt="image" src="https://github.com/user-attachments/assets/701d0109-09c6-453f-871d-94ac4f079a44" />
+<img width="1210" height="916" alt="image" src="https://github.com/user-attachments/assets/d7360927-1d00-438c-9555-bb1cd006928f" />
 
 ## 🌟 Features
 
