@@ -1,0 +1,34 @@
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional cache directories
+.npm
+.eslintcache
+
+# Optional tooling files
+.prettierrc
+.eslintrc
+
+# Logs
+logs
+*.log
