@@ -222,7 +222,7 @@ export const API_BASE_URL = process.env.REACT_APP_API_URL;
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-<<<<<<< HEAD
+
 
 ## 👥 Author
 
